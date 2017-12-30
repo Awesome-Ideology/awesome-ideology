@@ -1,12 +1,18 @@
 # awesome-ideology
 Curated list of Western ideological internet hubs
 
-### Big news
+### News
 
-#### ?
+#### Miscellaneous (to be categorized)
 
 * Wall Street Journal
 * BuzzFeed
+* RT
+* The Young Turks
+* Democracy Now
+* InfoWars
+* The Daily Wire
+* Medium
 
 #### Liberal
 
