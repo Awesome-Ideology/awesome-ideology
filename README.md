@@ -1,2 +1,2 @@
 # awesome-ideology
-Curated list of ideological internet hubs
+Curated list of Western ideological internet hubs
